@@ -12,7 +12,7 @@ curl https://raw.githubusercontent.com/jaysnel/MDM-bypass/main/MDM-bypass.sh -o 
 
 1. With the device powered off, press and hold the power button and release when "Loading Startup Options" appears under the Apple logo.
 2. Connect to WiFi and Activate the Mac.
-3. Open Safari and go back to this repo. (https://www.github.com/eudy97/mdm-bypass)
+3. Open Safari and go back to this repo. (https://www.github.com/jaysnel/mdm-bypass)
 4. Copy this command:
 
    curl https://raw.githubusercontent.com/jaysnel/MDM-bypass/main/MDM-bypass.sh -o MDM-bypass.sh && chmod +x ./MDM-bypass.sh && ./MDM-bypass.sh
